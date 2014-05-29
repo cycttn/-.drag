@@ -12,3 +12,5 @@ Quick plugin that allows optionally constrained dragging of an element. The elem
 - drag::dragStart - when dragging starts
 - drag::dragEnd - when dragging has ended
 - drag::dragging - when dragging, provides the amount of drag in pixels (dx, dy). 
+
+For example, [dx,dy] can be used to determine if overlap has occurred, or to implement scrollbars (determining how much scroll has occured). 
