@@ -1,0 +1,11 @@
+{
+    "name": "drag",
+    "version": "0.1.0",
+    "title": "Drag plugin",
+    "author": {"name": "Bryan Cua"},
+    "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
+    "dependencies": {"jquery": "2.0.2"},
+    "description": "$.fn.drag makes an element draggable. ",
+    "homepage": "http://js.lovelotte.net/jQ/drag",
+    "demo": "http://js.lovelotte.net/jQ/drag/demo.php"
+}
