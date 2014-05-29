@@ -1,6 +1,6 @@
 {
-    "name": "drag",
-    "version": "0.1.0",
+    "name": "cycDrag",
+    "version": "0.1.2",
     "title": "Drag plugin",
     "author": {"name": "Bryan Cua"},
     "licenses": [{"type": "MIT", "url": "http://opensource.org/licenses/MIT"}],
